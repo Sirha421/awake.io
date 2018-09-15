@@ -3,8 +3,7 @@ We hope to be a security extension for browsers to help prevent browser hijackin
 
 `git server.html` 
 
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
