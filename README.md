@@ -1,22 +1,17 @@
 Welcome to Get Off My Lawn!
 We hope to be a security extension for browsers to help prevent browser hijacking based on geolocation and OTP!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 
 ## Welcome to GitHub Pages
 
